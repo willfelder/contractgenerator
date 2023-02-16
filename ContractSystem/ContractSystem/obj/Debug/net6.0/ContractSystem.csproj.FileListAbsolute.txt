@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\bin\Debug\net6.0\ContractSystem.exe
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\bin\Debug\net6.0\ContractSystem.deps.json
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\bin\Debug\net6.0\ContractSystem.runtimeconfig.json
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\bin\Debug\net6.0\ContractSystem.dll
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\bin\Debug\net6.0\ContractSystem.pdb
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.dll
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\refint\ContractSystem.dll
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.pdb
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ContractSystem.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documents\projects-c#\ContractSystem\ContractSystem\ContractSystem\obj\Debug\net6.0\ref\ContractSystem.dll
